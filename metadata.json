@@ -1,0 +1,6 @@
+{
+  "name": "LegalMemo — Litigation Fact Intelligence",
+  "description": "Litigation fact intelligence and review platform: case overview, document verification, evidentiary triage, chronological timeline, and structured case brief synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
